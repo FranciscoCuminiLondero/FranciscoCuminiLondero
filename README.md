@@ -28,7 +28,7 @@ Soy un desarrollador frontend en formación, con un enfoque especial en construi
 ### Contacto 📫
 
 - Email: franciscocumini@gmail.com
-- [LinkedIn](www.linkedin.com/in/francisco-cumini)
+- [LinkedIn](https://www.linkedin.com/in/francisco-cumini)
 - [Portafolio](https://franciscocumini.com/)
 
 ---
