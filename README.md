@@ -1,6 +1,6 @@
 # Hola, soy Francisco Cumini 👋
 
-<!--![Banner de presentación](./imagenes/banner.png)-->
+![Banner de presentación](./banner.png)
 
 ### Desarrollador Web Frontend en progreso 🚀
 
