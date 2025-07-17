@@ -22,10 +22,10 @@ Soy un desarrollador frontend en formación, con un enfoque especial en construi
 
 ### Estadísticas de GitHub en tiempo real ⌨️ 
 <div align="center">
-  <a href="https://github.com/IvanDec0">
+  <a href="https://github.com/FranciscoCuminiLondero">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@franciscocumini&layout=compact&theme=radical" alt="Time stats"/>
   </a>
-  <a href="https://github.com/IvanDec0">
+  <a href="https://github.com/FranciscoCuminiLondero">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoCuminiLondero&theme=radical" alt="Top Languages"/>
   </a>
 </div>
